@@ -1,0 +1,24 @@
+{
+  "name": "node.js-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NowhereCat/node.js-mongodb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NowhereCat/node.js-mongodb/issues"
+  },
+  "homepage": "https://github.com/NowhereCat/node.js-mongodb#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "mongodb": "^5.7.0",
+    "mongoose": "^7.4.3"
+  }
+}
